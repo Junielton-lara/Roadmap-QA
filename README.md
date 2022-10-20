@@ -11,7 +11,7 @@ Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos
     <img alt="QA" title="QA" src=".github/splash.png" width="100%" />
 </h1> -->
 
-## 👨‍💻 Ciclo de desenvolvimento de software
+## 💻 Ciclo de desenvolvimento de software
 
 Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
 
