@@ -17,7 +17,7 @@ Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
 
 - [Artigo - Devmedia](https://www.devmedia.com.br/ciclos-de-vida-do-software/21099)
 - [Artigo - TreinaWeb](https://www.treinaweb.com.br/blog/ciclo-de-vida-software-por-que-e-importante-saber)
-- [Canal Dev Hero](https://www.youtube.com/watch?v=6_fVcpC0cxE)
+- [Vídeo - Canal Dev Hero](https://www.youtube.com/watch?v=6_fVcpC0cxE)
 
 
 ## 💻 Pirâmide de Testes
