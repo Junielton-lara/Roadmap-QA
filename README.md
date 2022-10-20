@@ -70,7 +70,7 @@ Você deve saber sobre Funcional x Não funcional
 ---
 
 <h1 align="left">
-    <img alt="QAninja Academy" src=".github/logo-qaninja.png" width="150px" />
+    <img alt="Sucesso" src=".github/logo-XXXX.png" width="150px" />
 </h1>
 
 ## 👨‍💻 
