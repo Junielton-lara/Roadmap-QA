@@ -55,7 +55,7 @@ Você deve saber sobre Funcional x Não funcional
 - [Vídeo - Leonardo Carvalho](https://www.youtube.com/watch?v=BiMYmTybKMU)
 
 
-## 💻 Automáticos x Manuais
+## 💻 Funcional x Não funcional
 
 Você deve saber sobre Funcional x Não funcional
 
