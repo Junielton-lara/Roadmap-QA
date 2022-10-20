@@ -2,9 +2,9 @@
 "Minha visão" - Roteiro para se tornar um QA
 
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img alt="QA" title="QA" src=".github/splash.png" width="100%" />
-</h1>
+</h1> -->
 
 ## 👨‍💻 Ciclo de desenvolvimento de software
 
@@ -69,9 +69,9 @@ Você deve saber sobre Funcional x Não funcional
 
 ---
 
-<h1 align="left">
+<!-- <h1 align="left">
     <img alt="Sucesso" src=".github/logo-XXXX.png" width="150px" />
-</h1>
+</h1> -->
 
 ## 👨‍💻 
 
