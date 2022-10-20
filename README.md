@@ -1,6 +1,11 @@
 # Roadmap-QA
 "Minha visão" - Roteiro para se tornar um QA
 
+A ideia central deste roadmap é para os QA iniciantes e pessoas que pensam em iniciar na área, mas não sabem por onde começar. Muitos quando começam, pulam etapas e acabam indo para os testes automatizados, assim deixando de lado muito de o que é ser QA e como atribuir qualidade ao processo. De início, esse roadmap contará com a trilha que eu acredito ser a mais interessante para se seguir o raciocínio. 
+
+Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos aos assuntos, onde tenha certificados de conclusão, isso é de extrema importancia.
+
+
 
 <!-- <h1 align="center">
     <img alt="QA" title="QA" src=".github/splash.png" width="100%" />
@@ -65,7 +70,7 @@ Você deve saber sobre Funcional x Não funcional
 
 # 🔖 Preparação para automação de testes
 
-### 
+### Em andamento...
 
 ---
 
