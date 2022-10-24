@@ -116,11 +116,13 @@ Cursos de Robot Framework
 # 🔖 Dicas extras
 #### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja seus aprendizado referente a lógica de programação.. 
 #### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluídos, projetos novos... Blz?
-#### 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
-#### 👨‍💻[Como personalizar o seu perfil no Github - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU)
-#### 👨‍💻[VEM CRIAR SEU CURRÍCULO COM A GENTE NESSE VÍDEO - Código Fonte TV](https://www.youtube.com/watch?v=QHpXC3p-pd4)
-#### 👨‍💻[Comece a Trabalhar SEM Experiência - Código Fonte TV](https://www.youtube.com/watch?v=llBJb_QT6ho)
-#### 👨‍💻[COMO FAZER UM EXCELENTE PERFIL NO LINKEDIN - Alexandre Saints](https://www.youtube.com/watch?v=t_P7BIu-bRY)
+# 🔖 Outros
+##### 👨‍💻[Como personalizar o seu perfil no Github - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU)
+##### 👨‍💻[VEM CRIAR SEU CURRÍCULO COM A GENTE NESSE VÍDEO - Código Fonte TV](https://www.youtube.com/watch?v=QHpXC3p-pd4)
+##### 👨‍💻[Comece a Trabalhar SEM Experiência - Código Fonte TV](https://www.youtube.com/watch?v=llBJb_QT6ho)
+##### 👨‍💻[COMO FAZER UM EXCELENTE PERFIL NO LINKEDIN - Alexandre Saints](https://www.youtube.com/watch?v=t_P7BIu-bRY)
+
+# 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
 Feito com ♥ [Qualquer duvida pode me chamar!](https://www.linkedin.com/in/junielton-lara/)
