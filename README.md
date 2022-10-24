@@ -94,7 +94,7 @@ Você deve saber sobre Git e Github, isso e muito importante ok..
 
 ## 💻 Python Básico  
 
-Acho legal saber sobre Python, mas se quiser pode estudar sobre outras linguagens de programação também..  
+Acho legal saber sobre Python, mas se quiser e preferir pode estudar sobre outras linguagens de programação também, fique a vontade..  
 
 - [Python Basico - Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2)
 
