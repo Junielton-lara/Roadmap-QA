@@ -1,5 +1,5 @@
 # Roadmap-QA
-"Minha visão" - Roteiro para se tornar um QA
+- Roteiro para se tornar um QA na "Minha visão"
 
 A ideia central deste roadmap é para os QA iniciantes e pessoas que pensam em iniciar na área, mas não sabem por onde começar. Muitos quando começam, pulam etapas e acabam indo para os testes automatizados, assim deixando de lado muito de o que é ser QA e como atribuir qualidade ao processo. De início, esse roadmap contará com a trilha que eu acredito ser a mais interessante para se seguir o raciocínio. 
 
