@@ -89,7 +89,29 @@ Você deve saber pelo menos o conceito sobre Análise Orientada a Objetos
 
 Você deve saber sobre Git e Github
 
-- [Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+- [Git e Github - Gratuito](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+
+## 💻 Python Basico 
+
+Acho legal tu saber sobre Python
+
+- [Python Basico - Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2)
+
+## 💻 Ebaaa, agora sim automação \o/
+
+Recomendo començar por Robot Framework:
+
+O Robot Framework simula o teste, como se fosse o usuário. “Ele é genérico, ou seja, não é apenas para a web. Serve para mobile, desktop, e é baseado em keyword-driven, onde a linguagem não é usada diretamente. Você usa a própria linguagem dele, e isso torna o script natural”. O Robot também tem código aberto (sem pagar licença) e é multiplataforma. “Além de abranger automação de testes, ele automatiza processos”,
+- [Para mais informações](https://paranashop.com.br/2021/05/automacao-de-testes-com-robot-framework-e-versatil-e-generica/)
+
+## 💻 Robot Framework 
+
+Cursos de Robot Framework
+
+- [Automação de Testes com Robot Framework - Básico - Udemy](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-1063412261926_._li_1001634_._pd__._&gclid=CjwKCAjw79iaBhAJEiwAPYwoCEZyw2QFNpGnrWoRw5wwBPHpOApR2wOpKteg5K37CGBOimfmREXAghoCn_kQAvD_BwE)
+
+- [Automação de Testes com Robot Framework - Avançado - Udemy](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-1063412261926_._li_1001634_._pd__._&gclid=CjwKCAjw79iaBhAJEiwAPYwoCKwDd4nHnDgM89Tn0iSc37Ybmg06j1Hyear1u4Kec2VfjNKkWpi-8xoCzJoQAvD_BwE)
+
 
 <!-- <h1 align="left">
     <img alt="Sucesso" src=".github/logo-XXXX.png" width="150px" />
