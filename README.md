@@ -12,6 +12,7 @@ Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos
 </h1> -->
 
 ## 💻 Ciclo de desenvolvimento de software
+#### Basicamente são quatro fases principais: definição, desenvolvimento, teste e operação/implementação. Cada etapa possui tarefas específicas que devem ser concluídas para que o projeto avance
 
 Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
 
@@ -21,7 +22,7 @@ Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
 
 
 ## 💻 Pirâmide de Testes
-
+#### A Pirâmide de Testes é uma ótima metáfora visual que nos diz para agrupar testes de software em diferentes granularidades
 Você deve saber sobre Pirâmide de Testes
 
 - [Vídeo - Pessonizando](https://www.youtube.com/watch?v=0AkYHCQsXe0)
@@ -39,23 +40,23 @@ Você deve saber sobre BDD x TDD
 - [Vídeo - Código Fonte TV](https://www.youtube.com/watch?v=bLdEypr2e-8&t=171s)
 
 ## 💻 Casos e Cenários de Teste
-
+#### O cenário de teste: Define o que deve ser testado. Caso de teste: É uma forma expecífica de como deve ser feito o teste validando ou não se a funcionalidade está correta
 Você deve saber sobre Casos e Cenários de Teste
 
 - [Vídeo - Pessonizando](https://www.youtube.com/watch?v=Tl5wuQL25ic)
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=FbZnSqeAQuI)
 - [Artigo - Prime Control](https://www.primecontrol.com.br/o-que-sao-cenarios-scripts-e-casos-de-teste/#:~:text=Um%20cen%C3%A1rio%20de%20teste%20%C3%A9,objetivo%20tenha%20sido%20bem%20testado.)
 
-## 💻 Funcional x Não funcional
+## 💻 Testes Funcional x Não funcional
 
-Você deve saber sobre Funcional x Não funcional
+Você deve saber sobre Testes Funcional x Não funcional
 
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=95uHO_OKzjs)
 - [Vídeo - Bug in Prod](https://www.youtube.com/watch?v=YshnAC19nWk)
 - [Vídeo - Leonardo Carvalho](https://www.youtube.com/watch?v=BiMYmTybKMU)
 
 
-## 💻 Automáticos x Manuais
+## 💻 Testes Automáticos x Manuais
 
 Você deve saber sobre Automáticos x Manuais
 
@@ -66,11 +67,9 @@ Você deve saber sobre Automáticos x Manuais
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=5ttKj-rBBSM)
 
 
-
-
 # 💻 Preparação para automação de testes
 
-### 
+### 🤖
 
 ---
 ## 💻 Lógica de programação
@@ -97,14 +96,14 @@ Acho legal tu saber sobre Python
 
 - [Python Basico - Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2)
 
-## 💻 Ebaaa, agora sim automação \o/
+## 💻🤖 Ebaaa, agora sim automação \o/🤖
 
-Recomendo começar por Robot Framework:
+Recomendo começar por Robot Framework🤖:
 
 O Robot Framework simula o teste, como se fosse o usuário. “Ele é genérico, ou seja, não é apenas para a web. Serve para mobile, desktop, e é baseado em keyword-driven, onde a linguagem não é usada diretamente. Você usa a própria linguagem dele, e isso torna o script natural”. O Robot também tem código aberto (sem pagar licença) e é multiplataforma. “Além de abranger automação de testes, ele automatiza processos”,
 - [Para mais informações](https://paranashop.com.br/2021/05/automacao-de-testes-com-robot-framework-e-versatil-e-generica/)
 
-## 💻 Robot Framework 
+## 💻🤖 Robot Framework 
 
 Cursos de Robot Framework
 
