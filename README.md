@@ -108,7 +108,7 @@ Acho legal saber sobre Python, mas se quiser e preferir pode estudar sobre outra
 
 Recomendo começar por Robot Framework🤖:
 
-O Robot Framework simula o teste, como se fosse o usuário. “Ele é genérico, ou seja, não é apenas para a web. Serve para mobile, desktop, e é baseado em keyword-driven, onde a linguagem não é usada diretamente. Você usa a própria linguagem dele, e isso torna o script natural”. O Robot também tem código aberto (sem pagar licença) e é multiplataforma. “Além de abranger automação de testes, ele automatiza processos”,
+O Robot Framework simula o teste, como se fosse o usuário. “Ele é genérico, ou seja, não é apenas para a web. Serve para mobile, desktop e API, e é baseado em keyword-driven, onde a linguagem não é usada diretamente. Você usa a própria linguagem dele, e isso torna o script natural”. O Robot também tem código aberto (sem pagar licença) e é multiplataforma. “Além de abranger automação de testes, ele automatiza processos”,
 - [Para mais informações](https://paranashop.com.br/2021/05/automacao-de-testes-com-robot-framework-e-versatil-e-generica/)
 
 ## 💻🤖 Robot Framework 
