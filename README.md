@@ -73,6 +73,23 @@ Você deve saber sobre Automáticos x Manuais
 ### Em andamento...
 
 ---
+## 💻 Lógica de programação
+
+Você deve saber sobre Lógica de programação
+
+- [Curso - Softblue - Gratuito](https://www.youtube.com/watch?v=95uHO_OKzjs](https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS)
+
+## 💻 Análise Orientada a Objetos
+
+Você deve saber sobre Análise Orientada a Objetos
+
+- [Curso - Softblue - Gratuito](https://www.youtube.com/watch?v=95uHO_OKzjs](https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS](https://www.softblue.com.br/site/curso/id/19/CURSO+DE+ANALISE+ORIENTADA+A+OBJETOS+INTEMEDIARIO+ON+LINE+OO19+GRATIS)
+
+## 💻 Git e Github
+
+Você deve saber sobre Git e Github
+
+- [Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 <!-- <h1 align="left">
     <img alt="Sucesso" src=".github/logo-XXXX.png" width="150px" />
