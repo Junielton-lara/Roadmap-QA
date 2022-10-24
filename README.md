@@ -126,7 +126,7 @@ O XPath é uma linguagem de consulta que nos ajuda a navegar por documentos que 
 #### Isso vai ajudar muito voce a localizar os elementos de uma pagina para realizar suas automações..
 
 - [Videos - Como montar xpath](https://www.youtube.com/results?search_query=curso+de+como+montar+xpath)
-- [XPath na prática — em 5 minutos- Danilo Feijó]([https://www.youtube.com/results?search_query=curso+de+como+montar+xpath](https://medium.com/testbean/xpath-na-pr%C3%A1tica-em-5-minutos-957b76beba5)
+- [XPath na prática — em 5 minutos- Danilo Feijó](https://www.youtube.com/watch?v=ZSAglCvKy9g)
 - [QArentena 20 - Localizando Elementos via CSS e XPath - com Danilo Freitas](https://www.youtube.com/watch?v=ZSAglCvKy9g)
 
 # 🔖 Dicas extras
