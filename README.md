@@ -51,7 +51,7 @@ Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 ## 💻 Testes Funcional x Não funcional
 
-Logo abaixo alguns vodeos/conteudos de exemplo para tu estudar, blz?
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=95uHO_OKzjs)
 - [Vídeo - Bug in Prod](https://www.youtube.com/watch?v=YshnAC19nWk)
