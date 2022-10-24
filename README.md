@@ -3,7 +3,7 @@
 
 A ideia central deste roadmap é para os QA iniciantes e pessoas que pensam em iniciar na área, mas não sabem por onde começar. Muitos quando começam, pulam etapas e acabam indo para os testes automatizados, assim deixando de lado muito de o que é ser QA e como atribuir qualidade ao processo. De início, esse roadmap contará com a trilha que eu acredito ser a mais interessante para se seguir o raciocínio. 
 
-Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos aos assuntos, onde tenha certificados de conclusão, isso é de extrema importancia.
+Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos aos assuntos, onde tenha certificados de conclusão, isso é de extrema importância.
 
 
 
@@ -14,7 +14,7 @@ Sugiro também além dos conteúdos apresentados neste, efetuar cursos relativos
 ## 💻 Ciclo de desenvolvimento de software
 #### Basicamente são quatro fases principais: definição, desenvolvimento, teste e operação/implementação. Cada etapa possui tarefas específicas que devem ser concluídas para que o projeto avance
 
-Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Artigo - Devmedia](https://www.devmedia.com.br/ciclos-de-vida-do-software/21099)
 - [Artigo - TreinaWeb](https://www.treinaweb.com.br/blog/ciclo-de-vida-software-por-que-e-importante-saber)
@@ -23,7 +23,8 @@ Você primeiro vai precisar saber sobre os Ciclo de desenvolvimento de software.
 
 ## 💻 Pirâmide de Testes
 #### A Pirâmide de Testes é uma ótima metáfora visual que nos diz para agrupar testes de software em diferentes granularidades
-Você deve saber sobre Pirâmide de Testes
+
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Vídeo - Pessonizando](https://www.youtube.com/watch?v=0AkYHCQsXe0)
 - [Vídeo - Alura](https://www.youtube.com/watch?v=gVJ1Lap-JYA)
@@ -31,7 +32,7 @@ Você deve saber sobre Pirâmide de Testes
 
 ## 💻 BDD x TDD
 
-Você deve saber sobre BDD x TDD
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Artigo - Marques Fernandes](https://marquesfernandes.com/tecnologia/teste-unitario-tdd-e-bdd-qual-a-diferenca/)
 - [Vídeo - CANAL VALOR](https://www.youtube.com/watch?v=xX2tKnwKAR0&t=360s)
@@ -41,7 +42,8 @@ Você deve saber sobre BDD x TDD
 
 ## 💻 Casos e Cenários de Teste
 #### O cenário de teste: Define o que deve ser testado. Caso de teste: É uma forma expecífica de como deve ser feito o teste validando ou não se a funcionalidade está correta
-Você deve saber sobre Casos e Cenários de Teste
+
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Vídeo - Pessonizando](https://www.youtube.com/watch?v=Tl5wuQL25ic)
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=FbZnSqeAQuI)
@@ -49,7 +51,7 @@ Você deve saber sobre Casos e Cenários de Teste
 
 ## 💻 Testes Funcional x Não funcional
 
-Você deve saber sobre Testes Funcional x Não funcional
+Logo abaixo alguns vodeos/conteudos de exemplo para tu estudar, blz?
 
 - [Vídeo - Julio de Lima](https://www.youtube.com/watch?v=95uHO_OKzjs)
 - [Vídeo - Bug in Prod](https://www.youtube.com/watch?v=YshnAC19nWk)
@@ -58,7 +60,7 @@ Você deve saber sobre Testes Funcional x Não funcional
 
 ## 💻 Testes Automáticos x Manuais
 
-Você deve saber sobre Automáticos x Manuais
+Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
 
 - [Artigo - Tecnisy](https://www.tecnisys.com.br/noticias/2019/teste-manual-vs-teste-automatizado)
 - [Vídeo - André Fernando](https://www.youtube.com/watch?v=ndkVbePpSLs)
@@ -74,7 +76,7 @@ Você deve saber sobre Automáticos x Manuais
 ---
 ## 💻 Lógica de programação
 
-Você deve saber sobre Lógica de programação
+Você deve saber sobre Lógica de programação, sem falta...
 
 - [Curso - Softblue - Gratuito](https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS)
 
@@ -86,13 +88,13 @@ Você deve saber pelo menos o conceito sobre Análise Orientada a Objetos
 
 ## 💻 Git e Github
 
-Você deve saber sobre Git e Github
+Você deve saber sobre Git e Github, isso e muito importante ok..
 
 - [Git e Github - Gratuito](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
-## 💻 Python Basico 
+## 💻 Python Básico  
 
-Acho legal tu saber sobre Python
+Acho legal saber sobre Python, mas se quiser pode estudar sobre outras linguagens de programação também..  
 
 - [Python Basico - Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2)
 
@@ -112,8 +114,8 @@ Cursos de Robot Framework
 - [Automação de Testes com Robot Framework - Avançado - Udemy](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-1063412261926_._li_1001634_._pd__._&gclid=CjwKCAjw79iaBhAJEiwAPYwoCKwDd4nHnDgM89Tn0iSc37Ybmg06j1Hyear1u4Kec2VfjNKkWpi-8xoCzJoQAvD_BwE)
 
 # 🔖 Dicas extras
-#### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja o seus aprendizado referente a logica de programação.. 
-#### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluidos, projetos novos... Blz?
+#### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja o seus aprendizado referente a lógica de programação.. 
+#### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluídos, projetos novos... Blz?
 #### 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
 Feito com ♥ [Qualquer duvida pode me chamar!](https://www.linkedin.com/in/junielton-lara/)
