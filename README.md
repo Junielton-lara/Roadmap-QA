@@ -114,6 +114,6 @@ Cursos de Robot Framework
 # 🔖 Dicas extras
 #### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja o seus aprendizado referente a logica de programação.. 
 #### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluidos, projetos novos... Blz?
-#### 👨‍💻 Aaaah deixa eu te falahr (💻🤖Nunca pare de estudar💻🤖).
+#### 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
 Feito com ♥ [Qualquer duvida pode me chamar!](https://www.linkedin.com/in/junielton-lara/)
