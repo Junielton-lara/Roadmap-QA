@@ -119,9 +119,9 @@ Cursos de Robot Framework
 
 # 🔖 Outros
 ##### 👨‍💻[Como personalizar o seu perfil no Github - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU)
-##### 👨‍💻[VEM CRIAR SEU CURRÍCULO COM A GENTE NESSE VÍDEO - Código Fonte TV](https://www.youtube.com/watch?v=QHpXC3p-pd4)
 ##### 👨‍💻[Comece a Trabalhar SEM Experiência - Código Fonte TV](https://www.youtube.com/watch?v=llBJb_QT6ho)
 ##### 👨‍💻[COMO FAZER UM EXCELENTE PERFIL NO LINKEDIN - Alexandre Saints](https://www.youtube.com/watch?v=t_P7BIu-bRY)
+##### 👨‍💻[VEM CRIAR SEU CURRÍCULO COM A GENTE NESSE VÍDEO - Código Fonte TV](https://www.youtube.com/watch?v=QHpXC3p-pd4)
 
 # 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
