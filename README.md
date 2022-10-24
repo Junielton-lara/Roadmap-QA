@@ -113,6 +113,8 @@ Cursos de Robot Framework
 
 - [Automação de Testes com Robot Framework - Avançado - Udemy](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-1063412261926_._li_1001634_._pd__._&gclid=CjwKCAjw79iaBhAJEiwAPYwoCKwDd4nHnDgM89Tn0iSc37Ybmg06j1Hyear1u4Kec2VfjNKkWpi-8xoCzJoQAvD_BwE)
 
+- [Conteudos - Como montar xpath](https://www.youtube.com/results?search_query=curso+de+como+montar+xpath)
+
 # 🔖 Dicas extras
 #### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja seus aprendizado referente a lógica de programação.. 
 #### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluídos, projetos novos... Blz?
