@@ -99,7 +99,7 @@ Acho legal tu saber sobre Python
 
 ## 💻 Ebaaa, agora sim automação \o/
 
-Recomendo començar por Robot Framework:
+Recomendo começar por Robot Framework:
 
 O Robot Framework simula o teste, como se fosse o usuário. “Ele é genérico, ou seja, não é apenas para a web. Serve para mobile, desktop, e é baseado em keyword-driven, onde a linguagem não é usada diretamente. Você usa a própria linguagem dele, e isso torna o script natural”. O Robot também tem código aberto (sem pagar licença) e é multiplataforma. “Além de abranger automação de testes, ele automatiza processos”,
 - [Para mais informações](https://paranashop.com.br/2021/05/automacao-de-testes-com-robot-framework-e-versatil-e-generica/)
