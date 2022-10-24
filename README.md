@@ -86,6 +86,12 @@ Você deve saber pelo menos o conceito sobre Análise Orientada a Objetos
 
 - [Curso - Softblue - Gratuito](https://www.softblue.com.br/site/curso/id/19/CURSO+DE+ANALISE+ORIENTADA+A+OBJETOS+INTEMEDIARIO+ON+LINE+OO19+GRATIS)
 
+## 💻 HTML e CSS Basico
+
+Você deve saber o basico de paginas WEB
+
+- [TUTORIAL BÁSICO HTML e CSS](https://www.youtube.com/watch?v=4Gq3WW6FwVA)
+
 ## 💻 Git e Github
 
 Você deve saber sobre Git e Github, isso e muito importante ok..
@@ -113,7 +119,15 @@ Cursos de Robot Framework
 
 - [Automação de Testes com Robot Framework - Avançado - Udemy](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-1063412261926_._li_1001634_._pd__._&gclid=CjwKCAjw79iaBhAJEiwAPYwoCKwDd4nHnDgM89Tn0iSc37Ybmg06j1Hyear1u4Kec2VfjNKkWpi-8xoCzJoQAvD_BwE)
 
+## 💻🤖 XPath 
+
+O XPath é uma linguagem de consulta que nos ajuda a navegar por documentos que usam marcadores, como os arquivos XML (Extensible Markup Language) e HTML (HyperText Markup Language). Para você que já entende o básico de HTML, aqui será possível ter uma introdução sobre como usar XPath para extrair informações deste tipo de documento.
+
+#### Isso vai ajudar muito voce a localizar os elementos de uma pagina para realizar suas automações..
+
 - [Videos - Como montar xpath](https://www.youtube.com/results?search_query=curso+de+como+montar+xpath)
+- [XPath na prática — em 5 minutos- Danilo Feijó]([https://www.youtube.com/results?search_query=curso+de+como+montar+xpath](https://medium.com/testbean/xpath-na-pr%C3%A1tica-em-5-minutos-957b76beba5)
+- [QArentena 20 - Localizando Elementos via CSS e XPath - com Danilo Freitas](https://www.youtube.com/watch?v=ZSAglCvKy9g)
 
 # 🔖 Dicas extras
 #### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja seus aprendizado referente a lógica de programação.. 
