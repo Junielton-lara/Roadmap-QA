@@ -81,7 +81,7 @@ Você deve saber sobre Lógica de programação
 
 ## 💻 Análise Orientada a Objetos
 
-Você deve saber sobre Análise Orientada a Objetos
+Você deve saber pelo menos o conceito sobre Análise Orientada a Objetos
 
 - [Curso - Softblue - Gratuito](https://www.softblue.com.br/site/curso/id/19/CURSO+DE+ANALISE+ORIENTADA+A+OBJETOS+INTEMEDIARIO+ON+LINE+OO19+GRATIS)
 
