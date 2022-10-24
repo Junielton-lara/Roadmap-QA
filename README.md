@@ -55,9 +55,9 @@ Você deve saber sobre Funcional x Não funcional
 - [Vídeo - Leonardo Carvalho](https://www.youtube.com/watch?v=BiMYmTybKMU)
 
 
-## 💻 Funcional x Não funcional
+## 💻 Automáticos x Manuais
 
-Você deve saber sobre Funcional x Não funcional
+Você deve saber sobre Automáticos x Manuais
 
 - [Artigo - Tecnisy](https://www.tecnisys.com.br/noticias/2019/teste-manual-vs-teste-automatizado)
 - [Vídeo - André Fernando](https://www.youtube.com/watch?v=ndkVbePpSLs)
