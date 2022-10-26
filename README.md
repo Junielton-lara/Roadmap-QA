@@ -129,6 +129,14 @@ O XPath é uma linguagem de consulta que nos ajuda a navegar por documentos que 
 - [XPath na prática — em 5 minutos- Danilo Feijó](https://www.youtube.com/watch?v=ZSAglCvKy9g)
 - [QArentena 20 - Localizando Elementos via CSS e XPath - com Danilo Freitas](https://www.youtube.com/watch?v=ZSAglCvKy9g)
 
+## 💻🤖 Bora estudar pra CTFL? 
+
+Afinal, o que é CTFL? Original do inglês, a sigla CTFL significa Certified Tester Foundation Level. Ela configura a base, ou seja, representa o nível fundamental de um exame que busca atestar e certificar o conhecimento de profissionais que trabalham com testes de software, não que seja obrigatorio ter, mas seria bacana..
+
+- [Um pouco sobre a certificação](https://bstqb.org.br/b9/sobre-ctfl)
+- [Material de estudo (Syllabus)](https://hotmart.com/pt-br/marketplace/produtos/syllabus-descomplicado-material-do-curso-preparatorio-para-certificacao-ctfl/R53464604L)
+- [Vídeo aulas - Leonardo Carvalho](https://www.youtube.com/watch?v=UiS-qDEDFLU&list=PL_tUJoq9lj-Qjif3SHivUhHeDU1LYOz6v)
+
 # 🔖 Dicas extras
 #### 👨‍💻 Qualquer novo projetinho que tu fizer, coloca esse projeto no GitHub, oK? mesmo que seja seus aprendizado referente a lógica de programação.. 
 #### 👨‍💻 Movimente seu linkdin, não tenha vergonha de postar sobre seus estudos, cursos concluídos, projetos novos... Blz?
