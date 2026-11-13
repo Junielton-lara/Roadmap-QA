@@ -152,4 +152,4 @@ Afinal, o que é CTFL? Original do inglês, a sigla CTFL significa Certified Tes
 
 # 👨‍💻 Aaaah deixa eu te falar (💻🤖Nunca pare de estudar💻🤖).
 
-Feito com ♥ [Qualquer duvida pode me chamar!](https://www.linkedin.com/in/junielton-lara/)
+
